@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="fish.svg" width="600" alt="My pufferfish. Its mood reflects my GitHub activity.">
+</p>
